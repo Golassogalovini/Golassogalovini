@@ -1,4 +1,4 @@
-name: ScriptEaglecraft
+name: Avica
 
 on:
   workflow_dispatch:
